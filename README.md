@@ -1,4 +1,4 @@
-# Game System Imput
+# Registration System
 
 > Status of project: In developing
 
