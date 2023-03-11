@@ -18,3 +18,10 @@ After that, the system will be available to start
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
+
+
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37378?v=4" width=115><br><sub>Fernando Giordano</sub>](https://github.com/fqgiord) |
+| :---: | :---: | :---: |
