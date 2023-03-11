@@ -5,6 +5,24 @@
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Funcionalidade](#Funcionalidade)
+
+
+Insira os tópicos do README em links para facilitar a navegação do leitor
+
+## Descrição do projeto 
+
+<p align="justify">
+  This project intent to analyse and to validate client status automatically.  
+</p>
+
+
+## Funcionalidade 
+
+<p align="justify">
+  Each user can be verified every time and this one also can be comunicated if someone from your family across that line.  
+</p>
+
 
 > Status of project: In developing
 
