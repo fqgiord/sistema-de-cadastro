@@ -8,7 +8,7 @@
 
 :small_blue_diamond: [Funcionalidade](#Funcionalidade)
 
-:small_blue_diamond: [Técnicas e tecnologias utilizadas](#Técnicas e tecnologias utilizadas)
+:small_blue_diamond: [Demonstração](#Demonstração)
 
 ...
 
@@ -27,7 +27,14 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
   Each user can be verified every time and this one also can be comunicated if someone from your family across that line.  
 </p>
 
-...
+
+## Demonstração 
+
+<p align="justify">
+  Each user can be verified every time and this one also can be comunicated if someone from your family across that line.  
+</p>
+
+![AV42sM5OehrV28BZPZ_GNfzLg7g-sgnfdA](https://user-images.githubusercontent.com/117307542/224465660-5a2deb78-3971-44e8-91dd-3f8a8577a1bc.gif)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -42,8 +49,9 @@ As principais técnicas e tecnologias utilizadas para o desenvolvimento do siste
 - `Express`: para criar rotas e gerenciar as requisições HTTP
 - `MongoDB`: banco de dados não-relacional utilizado para o armazenamento das informações dos usuários
 
+...
 
-![AV42sM5OehrV28BZPZ_GNfzLg7g-sgnfdA](https://user-images.githubusercontent.com/117307542/224465660-5a2deb78-3971-44e8-91dd-3f8a8577a1bc.gif)
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
 
