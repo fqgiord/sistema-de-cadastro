@@ -23,5 +23,5 @@ After that, the system will be available to start
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37378?v=4" width=115><br><sub>Fernando Giordano</sub>](https://github.com/fqgiord) |
-| :---: | :---: | :---: |
+| [<img src="https://user-images.githubusercontent.com/117307542/224465433-6c4b4da2-72c8-4f48-91c0-fd44331266c8.jpg" width=115><br><sub>Fernando Giordano</sub>](https://github.com/fqgiord) |
+| :---: | 
