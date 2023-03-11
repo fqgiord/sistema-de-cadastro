@@ -8,6 +8,8 @@
 
 :small_blue_diamond: [Funcionalidade](#Funcionalidade)
 
+:small_blue_diamond: [Técnicas e tecnologias utilizadas](#Técnicas e tecnologias utilizadas)
+
 ...
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
