@@ -27,21 +27,27 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ...
 
-> Status of project: In developing
+## ✔️ Técnicas e tecnologias utilizadas
 
-To run that project in your machine, please enter:
+As principais técnicas e tecnologias utilizadas para o desenvolvimento do sistema foram:
 
-```
-npm install react
-```
+- `HTML`: para a estruturação da página web
+- `CSS`: para o estilo visual do sistema
+- `JavaScript`: para a interatividade do usuário com o sistema
+- `Bootstrap`: para a estilização de elementos e otimização do layout
+- `React`: para a criação de componentes e gestão de estado da aplicação
+- `NodeJS`: para a criação do servidor e conexão com o banco de dados
+- `Express`: para criar rotas e gerenciar as requisições HTTP
+- `MongoDB`: banco de dados não-relacional utilizado para o armazenamento das informações dos usuários
 
-After that, the system will be available to start
 
 ![AV42sM5OehrV28BZPZ_GNfzLg7g-sgnfdA](https://user-images.githubusercontent.com/117307542/224465660-5a2deb78-3971-44e8-91dd-3f8a8577a1bc.gif)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
 
+## 🎉 Conclusão
 
+O sistema de cadastro é uma ótima opção para quem está iniciando na área de front-end e deseja praticar suas habilidades em HTML, CSS e JavaScript. Além disso, a utilização das tecnologias React, NodeJS e MongoDB permite que o aluno tenha uma visão ampla do desenvolvimento de aplicações web.
 
 # Autores
 
