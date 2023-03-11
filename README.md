@@ -1,4 +1,7 @@
-![# Registration System](https://user-images.githubusercontent.com/117307542/224463718-34df0758-6e56-42e5-a0df-651bd49882b0.jpg)
+# Registration System
+
+![images (1)](https://user-images.githubusercontent.com/117307542/224463806-54698634-bf50-4e42-aa95-0cf7090158e7.jpg)
+
 
 
 > Status of project: In developing
