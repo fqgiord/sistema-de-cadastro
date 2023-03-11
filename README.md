@@ -14,10 +14,7 @@ npm install react
 
 After that, the system will be available to start
 
-![system working](https://user-images.githubusercontent.com/117307542/224464691-e02859f1-09b0-4d77-84b5-02ef8f85a994.gif)
-
-
-
+![biometrics-as-a-service](https://user-images.githubusercontent.com/117307542/224464761-37d275bd-a250-4680-964a-fd00e4816081.gif)
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
