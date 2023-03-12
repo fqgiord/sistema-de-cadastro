@@ -18,7 +18,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-  This project intent to analyse and to validate client status automatically.  
+  The intent of this project is to analyse and to validate client status automatically from a cloud database.  
 </p>
 
 
